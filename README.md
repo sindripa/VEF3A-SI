@@ -9,3 +9,12 @@
   2) HTTP 2.0 var búið til að leisa mörg af vandarmálunum með HTTP. HTTP 2.0 sendir allt í einu frekar en að package-a það niður.
   
 #Verkefni 2:
+
+  Siggi:
+  1)
+	  1) static útfærslan væri fullt af undir síðum í möppu kerfi
+	  2) dynamic útfærslan væri ein síða sem myndi færa þér mismunandi uplýsingar eftir því hvaða link havi verið smelt á.
+
+2)
+
+  Sindri:

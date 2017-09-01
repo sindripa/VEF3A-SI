@@ -1,3 +1,4 @@
+
 # Verkefni 1:
   
   ## Sindri:
@@ -21,3 +22,6 @@
   ##### a) static útfærslan væri fullt af undir síðum í möppu kerfi
   ##### b) dynamic útfærslan væri ein síða sem myndi færa þér mismunandi uplýsingar eftir því hvaða link havi verið smelt á.
   ### 2)
+  ##### frontenda routing sníst um að sækja göggn og vinna með þau realtime ánþess að þurfa að refresha síðuni eins og í SPA.
+  ##### backenda routing þarf að refresha til að sækja gögn.
+  ##### bæði nota MVC.

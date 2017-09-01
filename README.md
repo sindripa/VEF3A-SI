@@ -11,13 +11,13 @@
 #Verkefni 2:
 
   Sindri:
-  1)
-    1) Static routing væri að nota folder/file systemið sem notar spaghettí URL og helling af undirsíðum.
-    2) Dynamic routing væri að nota sömu síðuna aftur og aftur, en notar forritaðann kóða til að breyta til síðunni með því að senda gögnin í sem query requests í URL-inu... en URL-ið er ekki venulega spaghettí URL... heldur er oftast búið að gera það fancy.
-  2) 
+  1.
+    a. Static routing væri að nota folder/file systemið sem notar spaghettí URL og helling af undirsíðum.
+    b. Dynamic routing væri að nota sömu síðuna aftur og aftur, en notar forritaðann kóða til að breyta til síðunni með því að senda gögnin í sem query requests í URL-inu... en URL-ið er ekki venulega spaghettí URL... heldur er oftast búið að gera það fancy.
+  2. 
 
   Siggi:
-  1)
-    1) static útfærslan væri fullt af undir síðum í möppu kerfi
-    2) dynamic útfærslan væri ein síða sem myndi færa þér mismunandi uplýsingar eftir því hvaða link havi verið smelt á.
-  2)
+  1.
+    a. static útfærslan væri fullt af undir síðum í möppu kerfi
+    b. dynamic útfærslan væri ein síða sem myndi færa þér mismunandi uplýsingar eftir því hvaða link havi verið smelt á.
+  2.

@@ -10,7 +10,7 @@
   
 #Verkefni 2:
 
-	Sindri:
+  Sindri:
 	1)
 		1) Static routing væri að nota folder/file systemið sem notar spaghettí URL og helling af undirsíðum.
 		2) Dynamic routing væri að nota sömu síðuna aftur og aftur, en notar forritaðann kóða til að breyta til síðunni með því að senda gögnin í sem query requests í URL-inu... en URL-ið er ekki venulega spaghettí URL... heldur er oftast búið að gera það fancy.

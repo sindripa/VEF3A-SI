@@ -17,7 +17,7 @@
   2. 
 
   Siggi:
-  1.
-    a. static útfærslan væri fullt af undir síðum í möppu kerfi
-    b. dynamic útfærslan væri ein síða sem myndi færa þér mismunandi uplýsingar eftir því hvaða link havi verið smelt á.
-  2.
+  1)
+    a) static útfærslan væri fullt af undir síðum í möppu kerfi
+    b) dynamic útfærslan væri ein síða sem myndi færa þér mismunandi uplýsingar eftir því hvaða link havi verið smelt á.
+  2)

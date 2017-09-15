@@ -17,6 +17,7 @@
   ##### b) Dynamic routing væri að nota sömu síðuna aftur og aftur, en notar forritaðann kóða til að breyta til síðunni með því að senda gögnin í sem query requests í URL-inu... en URL-ið er ekki venulega spaghettí URL... heldur er oftast búið að gera það fancy.
   ### 2) 
   ##### front-end routing er basically þannig að þú ert með "controller" í view sem er að sækja gögn og vinna með það ánþess að refresh-a hinsvegar með back-end routing þá þarf serverinn alltaf að processa allt, og þá þarf clientinn alltaf að refresh-a.
+  ### 3) Miðlarinn: "178.62.119.51".
 
   ## Siggi:
   ### 1)
